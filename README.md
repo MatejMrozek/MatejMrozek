@@ -32,7 +32,7 @@
 </div>
 
 <div id="socials">
-<h2>Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height="50px"></h2>
+<h2>Connect with me <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="50px" height="25px"></h2>
 <a href="https://www.github.com/MatejMrozek"><img width="32px" align="center" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 <a href="https://www.instagram.com/matej_mrozek"><img width="32px" align="center" alt="Instagram" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"></a>
 <a href="https://www.twitch.tv/Matejko06"><img width="32px" align="center" alt="Twitch" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitch.svg"></a>
