@@ -40,7 +40,7 @@
 
 <div id="activity">
 <h2>Stuff I worked on last week <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width="50px" height="50px"></h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MatejMrozek">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MatejMrozek&compact=True"/>
 </a>
 </div>
@@ -48,7 +48,6 @@
 <div id="stats">
 <h2>My GitHub Stats <img alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif" width="32px" height="32px"></h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatejMrozek&count_private=true&show_icons=true&theme=default"></a>
-<a href="https://github.com/anuraghazra/convoychat"><img align="center" alt="Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejMrozek&theme=default"></a>
+<a href="https://github.com/MatejMrozek"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatejMrozek&count_private=true&show_icons=true&theme=default"></a>
+<a href="https://github.com/MatejMrozek"><img align="center" alt="Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejMrozek&theme=default"></a>
 </div>
