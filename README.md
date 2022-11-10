@@ -40,7 +40,7 @@
 
 <div id="activity">
 <h2>Stuff I worked on last week <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width="50px" height="50px"></h2>
-<a href="https://github.com/MatejMrozek">
+<a href="https://wakatime.com/@MatejMrozek">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MatejMrozek&compact=True"/>
 </a>
 </div>
