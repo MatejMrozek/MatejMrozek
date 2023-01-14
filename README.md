@@ -15,11 +15,11 @@
 <div id="about-me">
 <h2>About Me <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100px" height="100px"></h2>
 
-- 🔭 I’m currently working on <a href="https://mathaxclient.xyz">MatHax</a> and a new website for it.
+- 🔭 I’m currently working on private games.
 
-- 🌱 I’m currently improving myself in HTML and CSS and learning Javascript and React.
+- 🌱 I’m currently improving myself in Unity, HTML, CSS, Javascript, React & Redux.
 
-- 👯 I’m looking to collaborate on fun projects.
+- 👨‍🎓 I'm currently learning Unreal Engine 5.
 </div>
 
 <div id="skills">
