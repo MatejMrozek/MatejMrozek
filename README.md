@@ -8,6 +8,12 @@
 
 </div>
 
+<div id="coffee">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4I1E7I)
+
+</div>
+
 <div id="welcome">
 <h4>Hi! My name is Matěj Mrozek. Thank You for taking the time to view my GitHub Profile. 😀</h4>
 </div>
