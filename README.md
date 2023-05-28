@@ -21,11 +21,11 @@
 <div id="about-me">
 <h2>About Me <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100px" height="100px"></h2>
 
-- 🔭 I’m currently working on private games.
+- 🔭 I’m currently working on private projects.
 
-- 🌱 I’m currently improving myself in Unity, HTML, CSS, Javascript, React & Redux.
+- 🌱 I’m currently improving myself in Unity & C#.
 
-- 👨‍🎓 I'm currently learning Unreal Engine 5.
+- 👨‍🎓 I'm currently learning Blender.
 </div>
 
 <div id="skills">
