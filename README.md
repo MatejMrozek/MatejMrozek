@@ -2,18 +2,6 @@
 <h1>Hello Fellow < Developers />! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px"></h1>
 </div>
 
-<div id="visitors">
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=MatejMrozek.MatejMrozek)
-
-</div>
-
-<div id="coffee">
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4I1E7I)
-
-</div>
-
 <div id="welcome">
 <h4>Hi! My name is Matěj Mrozek. Thank You for taking the time to view my GitHub Profile. 😀</h4>
 </div>
