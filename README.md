@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on private projects, some of them may go public though. 😏
 
-- 🌱 I’m currently improving myself in Java, PHP, Unity & C#.
+- 🌱 I’m currently improving myself in PHP (+ HTML & CSS).
 </div>
 
 <div id="skills">
